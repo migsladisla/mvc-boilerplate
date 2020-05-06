@@ -1,3 +1,3 @@
 ## DIGITAL WORKSPACE
 
-- Sample UI
+MVC Boilerplate
