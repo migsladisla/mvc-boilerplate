@@ -1,3 +1,1 @@
-## DIGITAL WORKSPACE
-
-MVC Boilerplate
+## MVC Boilerplate
