@@ -1,1 +1,1 @@
-## MVC Boilerplate
+# Node.js MVC Boilerplate
